@@ -1,4 +1,3 @@
-# Zooplus Coding challenge
 ## Description
 Welcome to a zooplus coding challenge based on a simple credit card management which helps a customer to manage his saved credit cards and add new credit card.
 
