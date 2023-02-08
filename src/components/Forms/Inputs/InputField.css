@@ -1,0 +1,38 @@
+.fieldContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 20px 0;
+}
+
+.date-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px
+}
+
+.field-input {
+    padding: 10px;
+    width: 100%;
+}
+.submit-button {
+    width: 100%;
+    background: #000;
+    appearance: none;
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    border: none;
+    color: #fff;
+    height: 50px;
+}
+.flex-basis50 {
+    flex-basis: 50%;
+}
+.input-error {
+    margin-top: 5px;
+    font-size: 12px;
+    color: red;
+}
